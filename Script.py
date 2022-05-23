@@ -15,7 +15,7 @@ class script(object):
 - Source -   https://github.com/Dasappanb/EvaMaria
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/MR_Dasappan_Malayalam_Rockers>mr dasappan</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -67,7 +67,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of mr dasappan
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
